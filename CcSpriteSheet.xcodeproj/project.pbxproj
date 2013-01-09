@@ -137,8 +137,6 @@
 		189FD628169003FC00AABF17 /* SpriteSheetLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 189FD626169003FC00AABF17 /* SpriteSheetLayer.m */; };
 		189FD62D1690045800AABF17 /* eagle.plist in Resources */ = {isa = PBXBuildFile; fileRef = 189FD6291690045800AABF17 /* eagle.plist */; };
 		189FD62E1690045800AABF17 /* eagle.png in Resources */ = {isa = PBXBuildFile; fileRef = 189FD62A1690045800AABF17 /* eagle.png */; };
-		189FD62F1690045800AABF17 /* Bear.plist in Resources */ = {isa = PBXBuildFile; fileRef = 189FD62B1690045800AABF17 /* Bear.plist */; };
-		189FD6301690045800AABF17 /* Bear.png in Resources */ = {isa = PBXBuildFile; fileRef = 189FD62C1690045800AABF17 /* Bear.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -409,8 +407,6 @@
 		189FD626169003FC00AABF17 /* SpriteSheetLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SpriteSheetLayer.m; sourceTree = "<group>"; };
 		189FD6291690045800AABF17 /* eagle.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = eagle.plist; sourceTree = "<group>"; };
 		189FD62A1690045800AABF17 /* eagle.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = eagle.png; sourceTree = "<group>"; };
-		189FD62B1690045800AABF17 /* Bear.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Bear.plist; sourceTree = "<group>"; };
-		189FD62C1690045800AABF17 /* Bear.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Bear.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -480,8 +476,6 @@
 				1814E12B168FE90C00E0565D /* Default-568h@2x.png */,
 				189FD6291690045800AABF17 /* eagle.plist */,
 				189FD62A1690045800AABF17 /* eagle.png */,
-				189FD62B1690045800AABF17 /* Bear.plist */,
-				189FD62C1690045800AABF17 /* Bear.png */,
 				187D1C96168FCDFB0096C830 /* Resources */,
 				187D1CB0168FCDFB0096C830 /* libs */,
 				187D1E09168FCDFE0096C830 /* Supporting Files */,
@@ -918,8 +912,6 @@
 				1814E12C168FE90C00E0565D /* Default-568h@2x.png in Resources */,
 				189FD62D1690045800AABF17 /* eagle.plist in Resources */,
 				189FD62E1690045800AABF17 /* eagle.png in Resources */,
-				189FD62F1690045800AABF17 /* Bear.plist in Resources */,
-				189FD6301690045800AABF17 /* Bear.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
